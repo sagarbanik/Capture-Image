@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CaptureImage</string>
+    <string name="dialog_tt1">Chose an option</string>
+    <string name="Cam">Camera</string>
+    <string name="Can">Cancel</string>
+    <string name="Gal">Gallery</string>
+
+</resources>
